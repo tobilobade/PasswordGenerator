@@ -4,8 +4,7 @@ const firstGen = document.getElementById("first-gen");
 const secondGen = document.getElementById("second-gen");
 const btn = document.getElementById("btn");
 
-prompt("hi");
-console.log("yo");
+
 
 
 function generatePassword(){
